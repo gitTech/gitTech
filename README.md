@@ -27,3 +27,4 @@ Add documentation
 Fix broken link
 Refactor core logic
 Fix typo in README
+Improve performance
