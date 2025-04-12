@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 Tweak margin and padding
 Rewrite function Y
 Change theme color
+Remove unused imports
